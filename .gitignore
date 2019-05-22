@@ -1,0 +1,12 @@
+*.o
+*.d
+*.a
+*.dSYM*
+a.out
+.DS_Store
+._*
+.vscode/
+.vscode
+framework/obj
+tests/obj
+tests/ft_printf_unit_test
